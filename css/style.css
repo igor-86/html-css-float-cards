@@ -1,0 +1,13 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Common */
+html{
+    font-family: 'Fredoka', sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
