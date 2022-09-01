@@ -7,7 +7,35 @@
 /* Common */
 html{
     font-family: 'Fredoka', sans-serif;
+    font-size: 62.5%;
 }
 body{
-    background-color: aliceblue;
+    background-color: #fffffe;
+}
+/* Margin */
+.mt{
+    margin-top: 2em;
+}
+/* __________ */
+
+h1{
+    font-size: 3.2rem;
+}
+p{
+    font-size: 1.8rem;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Meet */
+.box-meet{
+    text-align: center;
+    padding-top: 2em;
+}
+.box-meet h1{
+    color: #e53170;
+    
 }
